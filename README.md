@@ -302,12 +302,6 @@ tremora/
 └── README.md
 ```
 
-## 🚀 Next up
-
-**Collect clean sensor data → characterize patterns → tune safe motor output → implement BLE → build Flutter dashboard → integrate logs and analytics.**
-
----
-
 <div align="center">
 
 ### TREMORA
