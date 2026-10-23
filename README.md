@@ -269,38 +269,7 @@ timestamp_ms,hand_motion_g,wrist_rotation_dps,forearm_motion_g,detected,motors_e
 | Live dashboards and local logs | ⬜ Planned |
 | End-to-end testing and independent validation | ⬜ Planned |
 
-## 🗂️ Proposed repository layout
 
-```text
-tremora/
-├── firmware/
-│   ├── platformio.ini
-│   ├── include/
-│   ├── src/
-│   │   ├── main.cpp
-│   │   ├── sensors/
-│   │   ├── processing/
-│   │   ├── haptics/
-│   │   └── ble/
-│   └── test/
-├── app/
-│   ├── lib/
-│   │   ├── screens/
-│   │   ├── widgets/
-│   │   ├── services/
-│   │   └── models/
-│   └── test/
-├── analysis/
-│   ├── notebooks/
-│   └── scripts/
-├── docs/
-│   ├── architecture/
-│   ├── wiring/
-│   ├── ble-protocol/
-│   └── validation/
-├── samples/
-└── README.md
-```
 
 <div align="center">
 
